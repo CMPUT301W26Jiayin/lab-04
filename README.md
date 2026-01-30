@@ -1,3 +1,3 @@
 # lab-04
 Jiayin
-CMPUT301
+CMPUT301 Lab4
